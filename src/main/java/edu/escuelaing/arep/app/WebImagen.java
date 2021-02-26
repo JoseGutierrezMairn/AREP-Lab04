@@ -13,7 +13,7 @@ public class WebImagen {
 	 */
     @Web("/fin.html")
     public static String imagen() {
-        return "<html><title>Background</title><body><img src=\"/fin.jpg\" width=\"1900\" height=\"950\"></body></html>";
+        return "<html><title>Background</title><body><img src=\"/fin.png\" width=\"1900\" height=\"950\"></body></html>";
     }
     
 }
