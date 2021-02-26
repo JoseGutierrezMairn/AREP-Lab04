@@ -22,10 +22,7 @@ public class WebHTML {
 		    	    + "<div style=\"padding:30px; width:96.9%; color:white; font-size:150%; position:absolute ; top:450px ; left:0px\">"
 		    	    	+ "<center>\"Solo vemos las consecuencias cuando estan delante de nuestras narices\"</center>"
 		    	    + "</div>"
-		    	    + "</body>"
-		    			+ "<img src =\"https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/image_750x424/public/field/image/article/casa-de-papel.jpg?itok=q95dhAFf\" height=\"100%\" width=\"100%\" />"
-		    			+ "</body>"
-		    		+ "<script src=\"index.js\"></script>"
+
 		    	+ "</html>";
     }
 }
