@@ -21,6 +21,7 @@ public class WebHTML {
 		    	+ "</head>"
 		    	    + "<div style=\"padding:30px; width:96.9%; color:white; font-size:150%; position:absolute ; top:450px ; left:0px\">"
 		    	    	+ "<center>Solo vemos las consecuencias cuando estan delante de nuestras narices</center>"
+		    	    	+ "<center>Otras url: </center>"
 		    	        + "<center>https://vast-wildwood-34386.herokuapp.com/profesor.html</center>"
 		    	    	+ "<center>https://vast-wildwood-34386.herokuapp.com/fin.html</center>"
 		    	    + "</div>"

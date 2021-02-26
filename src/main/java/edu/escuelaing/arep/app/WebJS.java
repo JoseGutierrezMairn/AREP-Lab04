@@ -13,7 +13,7 @@ public class WebJS {
 	 */
     @Web("/profesor.html")
     public static String returnHtmlWithJS(){
-        return "<html><title>thanks</title><head><script src=\"/index.js\"></script></head>"
+        return "<html><title>thanks</title><head><script src=\"/index2.js\"></script></head>"
         		+ "<body style = \"background: url(https://serie-lacasadepapel.com/wp-content/uploads/2018/04/el-profesor.jpg) no-repeat ; background-size: 100% 100%;\">\r\n"
         		+ "</body>"
         		+ "</html>";
