@@ -1,7 +1,6 @@
 # TALLER DE ARQUITECTURAS DE SERVIDORES DE APLICACIONES, META PROTOCOLOS DE OBJETOS, PATRÓN IOC, REFLEXIÓN
 En este taller seguiremos explorando la arquitectura de las aplicaciones web a partir de nuevos retos para entender esta con más detalle,
 esto para simular situaciones reales como lo son las consultas en una base de datos, usar recursos de javascript, entre otros.
-El tema escogido para este taller con el fin de simular entornos reales es el mundial de Rusia 2018.
 ## Prerrequisitos
 Debemos tener los siguientes programas instalados:
 ~~~
@@ -27,11 +26,11 @@ O también se puede consultar el javadoc en la carpeta **javadoc** del repositor
 # Heroku  
 Para probar el programa desplegado en heroku  
 seguir el siguiente link:  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://powerful-stream-65068.herokuapp.com/)  
-[Rusia 2018 - Jose Gutierrez Marin](https://powerful-stream-65068.herokuapp.com/)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://vast-wildwood-34386.herokuapp.com/home.html)  
+[heroku - Jose Gutierrez Marin](https://vast-wildwood-34386.herokuapp.com/home.html)  
 
 # CircleCI  
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JoseGutierrezMairn/Lab3-Arep)  
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JoseGutierrezMairn/AREP-Lab04)  
 
 
 # Desarrollo  
