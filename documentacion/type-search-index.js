@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.escuelaing.arep.app","l":"App"},{"p":"edu.escuelaing.arep.app","l":"HTTPConexion"},{"p":"edu.escuelaing.arep.app","l":"Web"},{"p":"edu.escuelaing.arep.app","l":"WebHTML"},{"p":"edu.escuelaing.arep.app","l":"WebImagen"},{"p":"edu.escuelaing.arep.app","l":"WebJS"}]

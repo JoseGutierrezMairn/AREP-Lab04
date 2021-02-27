@@ -16,7 +16,7 @@ import java.util.regex.Pattern;
 import org.apache.commons.io.FilenameUtils;
 
 /**
- * 
+ * Clase principal de la aplicacion
  *
  */
 public class App 
@@ -53,7 +53,7 @@ public class App
     }
     
     /**
-     * Inicia todo el proceso de la aplicación
+     * Inicia todo el proceso de la aplicacion
      * @param args parametro para iniciar
      * @throws IOException Exception
      */
@@ -62,7 +62,7 @@ public class App
     }
 	
 	/**
-	 * Devuelve el puerto donde correrá la aplicación
+	 * Devuelve el puerto donde correra la aplicacion
 	 * @return puerto por el que va a correr el servicio
 	 */
     private int getPort() {
@@ -106,7 +106,7 @@ public class App
             
             while ((input = buffer.readLine()) != null) {
             	
-                System.out.println("Recibí: " + input);
+                System.out.println("Recibi: " + input);
                 constructor.append(input);
                 
                 if (!buffer.ready()) {

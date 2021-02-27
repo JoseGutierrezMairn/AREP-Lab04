@@ -24,7 +24,7 @@ public class HTTPConexion {
 	
 	/**
 	 * Obtiene el recurso
-	 * @param recurso valor dado
+	 * @param r valor dado
 	 * @return respuesta del recurso
 	 */
 	public String getRecurso(String r) {
